@@ -13,7 +13,7 @@ This content is designed for audience without any prior Machine learning knowled
 | Time (min)     | Activity |
 | ---------------| ---------|
 | 90             | [Introduction to Machine Learning.]() This is 07/20 session with end-to-end demos. |
-| 20             | Lab1/prereq - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
+| 20             | Lab1/prereq - [Setting up development environment.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) Steps 1.4-1.6 can be skipped.|
 | 45             | Lab2/prereq - [Introduction to R, Python & Data Synth.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) One option is needed. Options A, D, and/or E are recommended.|
 | 45             | Lab3 - [AzureML Experiments & Data Interaction.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) [Option A is recommended.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md#331-option-a-access-data-use-existing-dataset)|
 | 60             | Lab4 - [Develop and Consume AzureML Models](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/004-lab-azureml-experiment.md) |
