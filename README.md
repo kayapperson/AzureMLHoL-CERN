@@ -12,17 +12,17 @@ This content is designed for audience without any prior Machine learning knowled
 
 | Time (min) | Activity |
 | ---        | ---      |
-| 50         | [Introduction to Machine Learning](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/000-into-machine-learning.pptx) |
-| 20         | Lab1 - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
-| 45         | Lab2 - [Introduction to R, Python & Data Synth](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) |
-| 45         | Lab3 - [AzureML Experiments & Data Interaction](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) |
+| 90         | [Introduction to Machine Learning](07/19 session with end-to-end demo) |
+| 20         | Lab1/prereq - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
+| 45         | Lab2/prereq - [Introduction to R, Python & Data Synth.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) Options A, D, and/or E are recommended.|
+| 45         | Lab3 - [AzureML Experiments & Data Interaction.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) Option A is recommended.|
 | 60         | Lab4 - [Develop and Consume AzureML Models](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/004-lab-azureml-experiment.md) |
-| 45         | Lab5 - [Custom Scripts (R & Python) in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/005-lab-custom-script-r-python.md) |
+| 45 (optional)  | Lab5 - [Custom Scripts (R & Python) in AML.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/005-lab-custom-script-r-python.md) To practice on your own. |
 | 60         | Lab6 - [Evaluate model performance in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/006-lab-model-evaluation.md) |
-| 60         | Lab7 - [Azure ML Batch Score, Retrain, Production and Automatization](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/007-lab-production-ops.md) |
-| 45         | Lab8 - [Recommendation System](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/008-lab-recommendation-system.md) |
-| 45         | Lab9 - [Monetizing Azure ML Solution](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/009-lab-monetization.md) |
-| 90         | Lab10 - [Case Study: Optical character recognition](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/010-lab-cs-ocr.md) |
+| 60 (optional)  | Lab7 - [Azure ML Batch Score, Retrain, Production and Automatization](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/007-lab-production-ops.md) |
+| 45 (optional)  | Lab8 - [Recommendation System.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/008-lab-recommendation-system.md) To practice on your own, and this could be relevant.|
+| 45 (optional)  | Lab9 - [Monetizing Azure ML Solution.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/009-lab-monetization.md) To practice on your own.|
+| 90 (optional)  | Lab10 - [Case Study: Optical character recognition.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/010-lab-cs-ocr.md) To practice on your own.|
 
 ### **Detailed contents of the HOL**
 
