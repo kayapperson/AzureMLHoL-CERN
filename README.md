@@ -11,8 +11,8 @@ This content is designed for audience without any prior Machine learning knowled
 ### **Suggested timeline for Azure Machine Learning Hands On Lab (HOL)**
 
 | Time (min)     | Activity |
-| ----------     | ---------|
-| 90             | Introduction to Machine Learning. This is 07/20 session with end-to-end demos. |
+| ---------------| ---------|
+| 90             | [Introduction to Machine Learning.]() This is 07/20 session with end-to-end demos. |
 | 20             | Lab1/prereq - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
 | 45             | Lab2/prereq - [Introduction to R, Python & Data Synth.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) One option is needed. Options A, D, and/or E are recommended.|
 | 45             | Lab3 - [AzureML Experiments & Data Interaction.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) [Option A is recommended.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md#331-option-a-access-data-use-existing-dataset)|
@@ -26,7 +26,7 @@ This content is designed for audience without any prior Machine learning knowled
 
 ### **Detailed contents of the HOL**
 
- - [Introduction to Machine Learning](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/000-into-machine-learning.pptx)
+ - [Introduction to Machine Learning]()
     
 1. [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md)  
     * Overview
