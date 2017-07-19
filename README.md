@@ -12,10 +12,10 @@ This content is designed for audience without any prior Machine learning knowled
 
 | Time (min) | Activity |
 | ---        | ---      |
-| 90         | [Introduction to Machine Learning](07/19 session with end-to-end demo) |
+| 90         | Introduction to Machine Learning. This is 07/19 session with end-to-end demos. |
 | 20         | Lab1/prereq - [Setting up development environment](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/001-lab-setup.md) |
-| 45         | Lab2/prereq - [Introduction to R, Python & Data Synth.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) Options A, D, and/or E are recommended.|
-| 45         | Lab3 - [AzureML Experiments & Data Interaction.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) Option A is recommended.|
+| 45         | Lab2/prereq - [Introduction to R, Python & Data Synth.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/002-lab-data-synth.md) One option is needed. Options A, D, and/or E are recommended.|
+| 45         | Lab3 - [AzureML Experiments & Data Interaction.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md) [Option A is recommended.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/003-lab-data-interact.md#331-option-a-access-data-use-existing-dataset)|
 | 60         | Lab4 - [Develop and Consume AzureML Models](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/004-lab-azureml-experiment.md) |
 | 45 (optional)  | Lab5 - [Custom Scripts (R & Python) in AML.](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/005-lab-custom-script-r-python.md) To practice on your own. |
 | 60         | Lab6 - [Evaluate model performance in AML](https://github.com/Azure-Readiness/hol-azure-machine-learning/blob/master/006-lab-model-evaluation.md) |
